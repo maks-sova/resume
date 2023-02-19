@@ -6,8 +6,8 @@
 .Main{
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
     margin: 120 auto;
+    justify-content: center;
 }
 /* about style */
 .about_user{
