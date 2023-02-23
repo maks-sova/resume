@@ -150,24 +150,28 @@
     font-weight: bold ;
     font-size: 16 px;
     line-height: 20px;
-    color: black;
-    margin-bottom: 10px;
+    color:rgb(105, 96, 96);
+
+    margin-bottom: 0px;
+    
 }
 .organization{
     font-style: normal;
     font-weight: bold ;
     font-size: 16 px;
     line-height: 20px;
-    color: chartreuse;
+    color:rgba(53, 22, 165, 0.575);
+    margin-left: 10px;
 }
 .periot{
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 400;
-font-size: 12px;
+font-size: 10px;
 line-height: 15px;
-margin-bottom: 10px;
+margin-left:0px;
 padding: 0px;
+margin-top: 0px;
 }
 .link{
 font-family: 'Montserrat';
@@ -181,12 +185,15 @@ color: #000000;
     padding: 0px;
     margin-bottom: 15px;
 }
-.wokr_list_tittle{font-family: 'Montserrat';
+.wokr_list_tittle{
+    font-family: 'Montserrat';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-margin-left: 15px;
+margin-left: 20px;
+width: 400px;
+
 }
 
 .svg_icon{
@@ -202,4 +209,19 @@ margin-left: 15px;
 }
 .techno{
     color: #000000;
+}
+.academi{
+    margin:0px;
+    font-weight: 900;
+    color:rgba(53, 22, 165, 0.575);
+}
+.object{
+       font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+margin: 8px auto;
+/* line-height: 24px; */
+/* margin-left: 20px; */
+/* width: 400px; */
 }
