@@ -8,6 +8,7 @@
     flex-direction: row-reverse;
     margin:0 auto;
     width: 1200px; 
+    justify-content: center;
 }
    
 /* about style */
@@ -115,7 +116,7 @@
     font-size: 14 px;
     line-height: 27px;
     color: black;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 .project_item{
     font-style: normal;
@@ -208,4 +209,17 @@ width: 400px;
 }
 .techno{
     color: #000000;
+}
+.academi{
+    color:rgba(53, 22, 165, 0.575);
+    font-weight: 900;
+    margin: 0 auto;
+}
+.periot{
+  font-size: 8px;
+}
+.object{
+    margin-top: 6px;
+    font-weight: 600;
+    margin-bottom: 0px;
 }
