@@ -42,7 +42,7 @@
     line-height: 27px;
     color:rgba(133, 27, 27, 0.575);
     margin-bottom: 20px;
-    width: 400px;
+    width: 600px;
 }
 .project_list{
     padding: 0px;
@@ -204,7 +204,7 @@ font-weight: 400;
 font-size: 18px;
 line-height: 27px;
 margin-left: 20px;
-width: 400px;
+width: 600px;
 
 }
 
@@ -213,7 +213,7 @@ width: 400px;
 }
 .text{
     padding-top: 0px;
-    width: 400px;
+    width: 600px;
     color: rgba(133, 27, 27, 0.575);
     line-height: 27px;
     margin: 0;
