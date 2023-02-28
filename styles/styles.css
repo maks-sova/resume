@@ -1,6 +1,7 @@
 .body{
     font-family: "montserrat",sans-serif;
     background-color: #FFFFFF;
+    
 }
 /* Main styles */
 .Main{
@@ -18,8 +19,8 @@
 .about_position{
     font-style: normal;
     font-weight: bold ;
-    font-size: 14 px;
-    line-height: 7px;
+    font-size: 18px;
+    line-height: 27px;
     color: black;
     margin-bottom: 0px;
     
@@ -28,8 +29,8 @@
     display: flex;
     font-style: normal;
     font-weight: bold ;
-    font-size: 65 px;
-    line-height: 50px;
+    font-size:40px;
+    line-height: 27px;
     color: black;
     margin-bottom: 0px;
    
@@ -38,7 +39,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
-    line-height: 20px;
+    line-height: 27px;
     color:rgba(133, 27, 27, 0.575);
     margin-bottom: 20px;
     width: 400px;
@@ -66,7 +67,7 @@
      color: #FFFFFF;
      /* font-style: oblique; */
      font-weight: bold;
-     font-size: 14 px;
+     font-size: 1px;
      line-height: 27px;
      padding: 0;
      margin: 20px;
@@ -76,7 +77,7 @@
     /* margin-left: 10px; */
 }
 .Skills_fan{
-    color: #FFFFFF;
+    /* color: #FFFFFF; */
     list-style: none;
     
 }
@@ -84,14 +85,14 @@
     color: #FFFFFF;
     /* font-style: oblique; */
     font-weight: 500;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 27px;
     /* margin-left: 10px; */
 }
-.Skills_fan{
-    color: yellow;
+/* .Skills_fan{
+    color: yellow; */
     /* margin-left: 10px; */
-}
+/* } */
 .Sidebar_title{
     margin-left: 10px;
     color:turquoise;
@@ -99,11 +100,18 @@
     padding-left: 10px;
     
 }
-.Contakt_info{
+/* .Contakt_info{
     color: chartreuse;
     
-}
+} */
 .Contakt_link{
+    color:#FFFFFF;
+    font-size: 18px;
+    padding-left: 20px;
+    list-style: none;
+    /* text-decoration: none; */
+}
+.Contakt_links{
     color:#FFFFFF;
     font-size: 18px;
     padding-left: 20px;
@@ -113,7 +121,7 @@
 .naked{
     font-style: normal;
     font-weight: bold ;
-    font-size: 14 px;
+    font-size: 18px;
     line-height: 27px;
     color: black;
     margin-bottom: 10px;
@@ -121,7 +129,7 @@
 .project_item{
     font-style: normal;
     font-weight: bold ;
-    font-size: 14 px;
+    font-size: 18px;
     line-height: 27px;
    color:#000000;
     padding-left: 6px;
@@ -134,22 +142,26 @@
     color:rgb(105, 96, 96);
     text-decoration: none;
      margin-right: 6px;
+      font-size: 18px;
     
      
      
 }
+.span_progect{
+    margin-left: 100px;
+}
 .project_item{
     font-style: normal;
     font-weight: bold ;
-    font-size: 14 px;
+    font-size: 18px;
     line-height: 27px;
     color: #000000;
 }
 .work_possion{
     font-style: normal;
     font-weight: bold ;
-    font-size: 16 px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 27px;
     color:rgb(105, 96, 96);
 
     margin-bottom: 0px;
@@ -158,27 +170,27 @@
 .organization{
     font-style: normal;
     font-weight: bold ;
-    font-size: 16 px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 27px;
     color:rgba(53, 22, 165, 0.575);
     margin-left: 10px;
 }
 .periot{
-font-family: 'Montserrat';
+/* font-family: 'Montserrat'; */
 font-style: normal;
 font-weight: 400;
 font-size: 10px;
-line-height: 15px;
+line-height: 27px;
 margin-left:0px;
 padding: 0px;
 margin-top: 0px;
 }
 .link{
-font-family: 'Montserrat';
+/* font-family: 'Montserrat'; */
 font-style: normal;
 font-weight: 40000;
 font-size: 12px;
-line-height: 15px;
+line-height: 27px;
 color: #000000;
 }
 .work_list{
@@ -186,11 +198,11 @@ color: #000000;
     margin-bottom: 15px;
 }
 .wokr_list_tittle{
-    font-family: 'Montserrat';
+    /* font-family: 'Montserrat'; */
 font-style: normal;
 font-weight: 400;
-font-size: 14px;
-line-height: 24px;
+font-size: 18px;
+line-height: 27px;
 margin-left: 20px;
 width: 400px;
 
@@ -203,7 +215,7 @@ width: 400px;
     padding-top: 0px;
     width: 400px;
     color: rgba(133, 27, 27, 0.575);
-    line-height: 20px;
+    line-height: 27px;
     margin: 0;
     font-weight: 300;
 }
@@ -215,9 +227,7 @@ width: 400px;
     font-weight: 900;
     margin: 0 auto;
 }
-.periot{
-  font-size: 8px;
-}
+
 .object{
     margin-top: 6px;
     font-weight: 600;
