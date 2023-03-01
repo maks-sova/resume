@@ -127,6 +127,13 @@
     color: black;
     margin-bottom: 10px;
 }
+.achivements{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 18px;
+    line-height: 27px;
+    color: black;
+}
 .project_item{
     font-style: normal;
     font-weight: bold ;
@@ -210,10 +217,17 @@ margin-left: 20px;
 width: 600px;
 
 }
-
-.svg_icon{
-  fill:rgb(105, 96, 96);
+.achivements_p{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 18px;
+    line-height: 27px;
+    color: black;
 }
+
+/* .svg_icon{
+  fill:rgb(105, 96, 96);
+} */
 .text{
     padding-top: 0px;
     width: 600px;
