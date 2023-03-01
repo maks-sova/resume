@@ -127,23 +127,23 @@
     color: black;
     margin-bottom: 10px;
 }
-.achivements{
+.achievemets{
     width: 600px;
     font-style: normal;
     font-weight: bold ;
     font-size: 18px;
     line-height: 27px;
     color:	#000000;
+    font-weight: 600;
 }
 
-.achivements_p{
-    
+.achievemets_p{
+    width: 600px;
     font-style: normal;
-    font-weight: 500;
-    
     font-size: 18px;
     line-height: 27px;
     color:	#000000;
+    
 }
 .project_item{
     font-style: normal;
