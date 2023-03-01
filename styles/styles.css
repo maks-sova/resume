@@ -134,6 +134,13 @@
     line-height: 27px;
     color: black;
 }
+.achivements_p{
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 18px;
+    line-height: 27px;
+    color: black;
+}
 .project_item{
     font-style: normal;
     font-weight: bold ;
@@ -194,6 +201,7 @@ line-height: 27px;
 margin-left:0px;
 padding: 0px;
 margin-top: 0px;
+margin-bottom: 10px;
 }
 .link{
 /* font-family: 'Montserrat'; */
@@ -217,13 +225,7 @@ margin-left: 20px;
 width: 600px;
 
 }
-.achivements_p{
-    font-style: normal;
-    font-weight: bold ;
-    font-size: 18px;
-    line-height: 27px;
-    color: black;
-}
+
 
 /* .svg_icon{
   fill:rgb(105, 96, 96);
