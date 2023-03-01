@@ -40,7 +40,7 @@
     font-weight: 500;
     font-size: 18px;
     line-height: 27px;
-    color:rgba(133, 27, 27, 0.575);
+    color:	#000000;
     margin-bottom: 20px;
     width: 600px;
 }
@@ -162,7 +162,7 @@
     font-weight: bold ;
     font-size: 18px;
     line-height: 27px;
-    color:rgb(105, 96, 96);
+    color:turquoise;
 
     margin-bottom: 0px;
     
@@ -214,7 +214,7 @@ width: 600px;
 .text{
     padding-top: 0px;
     width: 600px;
-    color: rgba(133, 27, 27, 0.575);
+    color: 	#000000;
     line-height: 27px;
     margin: 0;
     font-weight: 300;
@@ -223,7 +223,7 @@ width: 600px;
     color: #000000;
 }
 .academi{
-    color:rgba(53, 22, 165, 0.575);
+    color:turquoise;
     font-weight: 900;
     margin: 0 auto;
 }
