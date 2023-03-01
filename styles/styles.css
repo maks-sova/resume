@@ -128,18 +128,22 @@
     margin-bottom: 10px;
 }
 .achivements{
+    width: 600px;
     font-style: normal;
     font-weight: bold ;
     font-size: 18px;
     line-height: 27px;
-    color: black;
+    color:	#000000;
 }
+
 .achivements_p{
+    
     font-style: normal;
-    font-weight: bold ;
+    font-weight: 500;
+    
     font-size: 18px;
     line-height: 27px;
-    color: black;
+    color:	#000000;
 }
 .project_item{
     font-style: normal;
@@ -180,7 +184,7 @@
     font-size: 18px;
     line-height: 27px;
     color: #000000;
-margin-top:0px;
+    margin-top:0px;
     margin-bottom: 0px;
     
 }
